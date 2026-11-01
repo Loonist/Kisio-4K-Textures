@@ -1,0 +1,23 @@
+{
+  "project": "Kisio Design Media",
+  "purpose": "15 textures for unpublished Shopify animation-repair theme",
+  "host": "Shopify CDN",
+  "note": "These are source assets hosted as Shopify Files; they are not yet applied to theme. The 4K floor normal was converted to WebP to meet upload limit. 4K dimensions do not imply native 4K source detail.",
+  "assets": {
+    "planet_albedo": "https://cdn.shopify.com/s/files/1/0932/1617/8462/files/01_planet_albedo_4096x2048_51dff495-1cea-46b0-99f2-b55cb9538113.jpg?v=1793507542",
+    "planet_night_lights": "https://cdn.shopify.com/s/files/1/0932/1617/8462/files/01b_planet_night_lights_emissive_4096x2048_9dff8a0b-01f2-4bcd-b597-49b0aa1ef3cb.png?v=1793507556",
+    "planet_clouds": "https://cdn.shopify.com/s/files/1/0932/1617/8462/files/01c_planet_clouds_rgba_4096x2048_eac6b46a-8c3e-4fe0-9422-572a5bbc067a.png?v=1793507563",
+    "moon_albedo": "https://cdn.shopify.com/s/files/1/0932/1617/8462/files/02_moon_albedo_4096x2048_47c6f599-9810-4895-a60d-d1280e2b425a.jpg?v=1793507568",
+    "moon_normal": "https://cdn.shopify.com/s/files/1/0932/1617/8462/files/02b_moon_normal_4096x2048_88d16b24-0b4b-4e32-bc10-907890e10bb9.png?v=1793507579",
+    "floor_albedo": "https://cdn.shopify.com/s/files/1/0932/1617/8462/files/03_ship_floor_albedo_4096x4096_4d1f2584-2547-46ef-80c3-911eeedd503c.jpg?v=1793507583",
+    "floor_roughness": "https://cdn.shopify.com/s/files/1/0932/1617/8462/files/03b_ship_floor_roughness_4096x4096_ffb4a3b7-a071-4036-b539-de1bb2ea25a2.png?v=1793507592",
+    "floor_normal": "https://cdn.shopify.com/s/files/1/0932/1617/8462/files/03c_ship_floor_normal_4096x4096_f197e05c-946f-4257-b98e-d99c6e622ffb.webp?v=1793507616",
+    "monitor_radar": "https://cdn.shopify.com/s/files/1/0932/1617/8462/files/04_ship_monitor_1_3840x2160_83f42108-99ac-4021-aa53-af28a4be8290.png?v=1793507620",
+    "monitor_systems": "https://cdn.shopify.com/s/files/1/0932/1617/8462/files/04_ship_monitor_2_3840x2160_a97c2dc7-ef56-4702-ae33-89d92fd1cf2d.png?v=1793507625",
+    "monitor_navigation": "https://cdn.shopify.com/s/files/1/0932/1617/8462/files/04_ship_monitor_3_3840x2160_3a2b4736-49d6-42d9-aaab-41d6dbd2c16c.png?v=1793507629",
+    "monitor_scan": "https://cdn.shopify.com/s/files/1/0932/1617/8462/files/04_ship_monitor_4_3840x2160_3e61365a-9ecc-46c6-acb3-0f3915cb6aa7.png?v=1793507633",
+    "hologram_globe": "https://cdn.shopify.com/s/files/1/0932/1617/8462/files/05_hologram_globe_uv_rgba_4096x2048_66d37e61-ea5d-451a-bee7-c8a800e15cdb.png?v=1793507638",
+    "emitter_top": "https://cdn.shopify.com/s/files/1/0932/1617/8462/files/06_hologram_emitter_top_rgba_4096x4096_91e0e16c-9b8b-4605-8de0-e7d175e0c07b.png?v=1793507644",
+    "emitter_emissive": "https://cdn.shopify.com/s/files/1/0932/1617/8462/files/06b_emitter_emissive_rgba_4096x4096_a92cbf23-086a-42db-b316-00f03f7f72ee.png?v=1793507649"
+  }
+}
