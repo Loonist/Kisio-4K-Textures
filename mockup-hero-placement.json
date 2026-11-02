@@ -1,0 +1,151 @@
+{
+  "reference": "top bar.png",
+  "reference_px": [
+    941,
+    369
+  ],
+  "accuracy": "Bounding rectangles are visually estimated. Source is flattened; independent pixel-identical high-resolution reconstructions are not recoverable from this image alone.",
+  "source_sha256": "2e19b325ade10a9420ddda360899310229904b5a08055ad433b0ed9eaeff2204",
+  "elements": [
+    {
+      "id": "logo",
+      "x": 61,
+      "y": 9,
+      "width": 140,
+      "height": 34
+    },
+    {
+      "id": "nav_links",
+      "x": 317,
+      "y": 17,
+      "width": 334,
+      "height": 24
+    },
+    {
+      "id": "launch_hub",
+      "x": 798,
+      "y": 13,
+      "width": 104,
+      "height": 30
+    },
+    {
+      "id": "hero_eyebrow",
+      "x": 62,
+      "y": 107,
+      "width": 221,
+      "height": 16
+    },
+    {
+      "id": "hero_headline",
+      "x": 62,
+      "y": 133,
+      "width": 351,
+      "height": 62
+    },
+    {
+      "id": "hero_description",
+      "x": 62,
+      "y": 210,
+      "width": 322,
+      "height": 29
+    },
+    {
+      "id": "cta_explore",
+      "x": 59,
+      "y": 255,
+      "width": 131,
+      "height": 32
+    },
+    {
+      "id": "cta_studio",
+      "x": 201,
+      "y": 256,
+      "width": 112,
+      "height": 31
+    },
+    {
+      "id": "background_planet",
+      "x": 546,
+      "y": 55,
+      "width": 395,
+      "height": 236
+    },
+    {
+      "id": "nebula_starfield",
+      "x": 397,
+      "y": 55,
+      "width": 391,
+      "height": 149
+    },
+    {
+      "id": "moon",
+      "x": 532,
+      "y": 112,
+      "width": 39,
+      "height": 41
+    },
+    {
+      "id": "hologram_sphere",
+      "x": 435,
+      "y": 171,
+      "width": 172,
+      "height": 130
+    },
+    {
+      "id": "monitor_left_outer",
+      "x": 334,
+      "y": 252,
+      "width": 80,
+      "height": 50
+    },
+    {
+      "id": "monitor_left_inner",
+      "x": 404,
+      "y": 261,
+      "width": 51,
+      "height": 43
+    },
+    {
+      "id": "monitor_right_inner",
+      "x": 613,
+      "y": 250,
+      "width": 79,
+      "height": 51
+    },
+    {
+      "id": "monitor_right_outer",
+      "x": 709,
+      "y": 245,
+      "width": 134,
+      "height": 55
+    },
+    {
+      "id": "emitter",
+      "x": 418,
+      "y": 290,
+      "width": 242,
+      "height": 41
+    },
+    {
+      "id": "cockpit_floor",
+      "x": 0,
+      "y": 290,
+      "width": 941,
+      "height": 79
+    },
+    {
+      "id": "left_ship_frame",
+      "x": 0,
+      "y": 0,
+      "width": 61,
+      "height": 315
+    },
+    {
+      "id": "right_ship_frame",
+      "x": 826,
+      "y": 49,
+      "width": 115,
+      "height": 265
+    }
+  ]
+}
